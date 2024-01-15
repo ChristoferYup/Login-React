@@ -1,0 +1,63 @@
+.container-padre{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.imglog{
+    width: 100vh;
+    height: 800px;
+    margin-top: 100px;
+}
+.estilo-perfil{
+    border-radius: 55%;
+    height: 130px;
+    width: 130px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.inputlogin{
+    background-color: #cccccc40;
+    border-color: slategray;
+    border-radius: 30px;
+    width: 90%;
+    margin-left: 20px;
+    padding: 10px;
+    border-width: 1px;
+    margin-bottom: 20px;
+}
+.inputlogin:focus{
+    outline: 1px solid skyblue;
+    box-shadow: 0 0 9px skyblue;
+}
+.btnis{
+    margin-left: 20px;
+    background-color: #67E9FF;
+    border-color: slategray;
+    border-radius: 30px;
+    width: 90%;
+    padding: 10px;
+    border-width: 1px;
+    margin-bottom: 20px;
+    color: black;
+}
+.textoh4{
+    font-size: 20px;
+    color: slategray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    margin-left: 20px;
+
+
+}
+.btns{
+    background-color: skyblue;
+    border-radius: 20px;
+    padding: 9px;
+    border-width: 0;
+    color: black;
+    font-size: 14px;
+    margin-left: 20px;
+
+}
